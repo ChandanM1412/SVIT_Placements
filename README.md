@@ -6,6 +6,7 @@ to streamline the process of managing and accessing college placement opportunit
 students. The app aims to provide a convenient and efficient platform for students to 
 explore job opportunities, submit applications, and track their progress throughout the 
 placement process. 
+
 This application can help the placement officers to provide the details of upcoming 
 companies. The students will be alerted via a notification. Once the recruitment process is 
 completed, a list of placed students will be uploaded in the application by the administrator. It 
@@ -17,3 +18,6 @@ Overall, the SVIT Placements Application offers a user-friendly interface and a 
 platform for students to explore, apply, and manage their placement opportunities. It aims to 
 simplify the process, increase transparency, and empower students in their pursuit of successful 
 career placements.
+
+NOTE: 
+Create firebase database & add google_services.json into app folder.
