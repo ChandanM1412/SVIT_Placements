@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SVIT Placements</string>
+    <string name="add">Add</string>
+    <string name="company_details">Company Details</string>
+    <string name="choose_an_image">Choose an Image</string>
+    <string name="choose">Choose</string>
+    <string name="enter_title"> Enter Title</string>
+    <string name="enter_description"> Enter Description</string>
+    <string name="add1">Add</string>
+    <string name="svit"> SVIT </string>
+    <string name="admin_tpo_students"> Admin | TPO | Students </string>
+    <string name="placements"> Placements </string>
+    <string name="admin">Admin</string>
+    <string name="student">Student</string>
+    <string name="tpo">TPO</string>
+    <string name="settings">Settings</string>
+    <string name="developer"><a href="https://chandanm1412.github.io/Chandanm-portfolio/">Developer</a></string>
+    <string name="college"><a href="https://saividya.ac.in/">College</a></string>
+</resources>
